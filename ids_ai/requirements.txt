@@ -1,0 +1,14 @@
+tensorflow>=2.10.0
+scapy>=2.5.0
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.0.2
+python-dotenv>=0.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+sqlalchemy>=1.4.0
+notify-py>=0.3.3
+pypcap>=1.2.3
+winpcap; platform_system=="Windows"
+colorama>=0.4.6
+requests>=2.26.0
